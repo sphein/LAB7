@@ -15,7 +15,8 @@ public class GITHUB {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Hey");
+        System.out.println("Username:sphein; Name: Saengyao Phein");
+        
     }
     
 }
